@@ -7,4 +7,5 @@ Esse jogo foi feito utilizando:
     JavaScritp
 
 
-![img][https://i.imgur.com/25vV4hY.png]
+
+![imagem](https://i.imgur.com/25vV4hY.png)
